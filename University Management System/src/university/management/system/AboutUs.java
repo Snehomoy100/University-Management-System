@@ -70,7 +70,7 @@ public class AboutUs extends JFrame{
             contentPane.add(l9);
 
 
-            JLabel l10 = new JLabel("Phone - +91 9999 999999");
+            JLabel l10 = new JLabel("Phone - +91 88888 88888");
             l10.setForeground(new Color(47, 79, 79));
             l10.setFont(new Font("Trebuchet MS", Font.BOLD | Font.ITALIC, 18));
             l10.setBounds(70, 400, 600, 34);
