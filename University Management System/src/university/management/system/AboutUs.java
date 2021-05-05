@@ -49,12 +49,12 @@ public class AboutUs extends JFrame{
             contentPane.add(l5);
 
 
-            JLabel l6 = new JLabel("Developed By : Snehomoy Maitra, Shuveccha Dutta, Sneha Das");
+            JLabel l6 = new JLabel("Developed By : Snehomoy Maitra.");
             l6.setFont(new Font("Trebuchet MS", Font.BOLD, 20));
             l6.setBounds(70, 198, 600, 35);
             contentPane.add(l6);
 
-            JLabel l7 = new JLabel("Roll Number - 12019009001252, ");
+            JLabel l7 = new JLabel("Roll Number - XXXXXXXXX");
             l7.setFont(new Font("Trebuchet MS", Font.BOLD, 20));
             l7.setBounds(70, 260, 600, 34);
             contentPane.add(l7);
