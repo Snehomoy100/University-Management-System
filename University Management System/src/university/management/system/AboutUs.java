@@ -59,7 +59,7 @@ public class AboutUs extends JFrame{
             l7.setBounds(70, 260, 600, 34);
             contentPane.add(l7);
 
-            JLabel l8 = new JLabel("Contact : kavana@gmail.com");
+            JLabel l8 = new JLabel("Contact : snehomoy100@gmail.com");
             l8.setFont(new Font("Trebuchet MS", Font.BOLD, 20));
             l8.setBounds(70, 290, 600, 34);
             contentPane.add(l8);
