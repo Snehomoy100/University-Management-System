@@ -13,7 +13,7 @@ public class AboutUs extends JFrame{
     
         public AboutUs() {
             
-            super("About Us - Sadhana University");
+            super("About Us - University of Engineering & Management, Kolkata");
             setBackground(new Color(173, 216, 230));
             setBounds(500, 250, 700, 500);
 		
